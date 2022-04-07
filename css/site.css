@@ -5,6 +5,14 @@
     --white-color: #e7e7e7;
 }
 
+.odd{
+    font-weight: 100;
+}
+
+.even{
+    font-weight: bold;
+}
+
 body{
     color:var(--dark-color);
 }
@@ -66,6 +74,8 @@ main>.container {
     padding: 60px 15px 0;
     margin-bottom: 5rem;
 }
+
+
 
 /*.sticky-footer {
 
